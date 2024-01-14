@@ -1,0 +1,6 @@
+GITHUB_PAT
+*.sqlite
+top_pypi_pkgs.json
+
+# VS Code
+.vscode/
